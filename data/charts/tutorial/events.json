@@ -1,0 +1,41 @@
+{
+	"song": {
+		"speed": 1,
+		"stage": null,
+		"player1": "bf",
+		"player2": "gf",
+		"player3": null,
+		"events": [
+			[
+				6750,
+				[
+					[
+						"Change Character",
+						"dad",
+						"gf-with-mic"
+					]
+				]
+			],
+			[
+				18600,
+				[
+					[
+						"Hey!",
+						"efsdf",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"eventJson": "events",
+		"bpm": 100,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"songID": "Tutorial",
+		"song": "Tutorial"
+	}
+}

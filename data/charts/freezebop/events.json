@@ -1,0 +1,379 @@
+{
+	"song": {
+		"speed": 1.3,
+		"stage": null,
+		"player1": "bf",
+		"player2": "dad",
+		"player3": null,
+		"events": [
+			[
+				4200,
+				[
+					[
+						"Hey!",
+						"GF",
+						""
+					]
+				]
+			],
+			[
+				9000,
+				[
+					[
+						"Hey!",
+						"GF",
+						""
+					]
+				]
+			],
+			[
+				13800,
+				[
+					[
+						"Hey!",
+						"GF",
+						""
+					]
+				]
+			],
+			[
+				16800,
+				[
+					[
+						"Set Camera Zoom",
+						"0.725",
+						""
+					],
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				17400,
+				[
+					[
+						"Set Camera Zoom",
+						"0.8",
+						""
+					],
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				18000,
+				[
+					[
+						"Set Camera Zoom",
+						"0.875",
+						""
+					],
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				18600,
+				[
+					[
+						"Set Camera Zoom",
+						"0.9",
+						""
+					],
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				19200,
+				[
+					[
+						"GAME Flash",
+						"1",
+						"FFFFFF"
+					],
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					],
+					[
+						"Set Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				33600,
+				[
+					[
+						"Set Camera Zoom",
+						"0.725",
+						""
+					]
+				]
+			],
+			[
+				38400,
+				[
+					[
+						"Set GF Speed",
+						"2",
+						""
+					],
+					[
+						"Set Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				43200,
+				[
+					[
+						"Set Camera Zoom",
+						"0.75",
+						""
+					]
+				]
+			],
+			[
+				47400,
+				[
+					[
+						"Hey!",
+						"GF",
+						""
+					]
+				]
+			],
+			[
+				48000,
+				[
+					[
+						"Set Camera Zoom",
+						"",
+						""
+					],
+					[
+						"Set GF Speed",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				52800,
+				[
+					[
+						"Set Camera Zoom",
+						"0.775",
+						""
+					]
+				]
+			],
+			[
+				55200,
+				[
+					[
+						"Set Camera Zoom",
+						"0.8",
+						""
+					],
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				55800,
+				[
+					[
+						"Set Camera Zoom",
+						"0.85",
+						""
+					],
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				56400,
+				[
+					[
+						"Set Camera Zoom",
+						"0.9",
+						""
+					],
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				57000,
+				[
+					[
+						"Set Camera Zoom",
+						"0.95",
+						""
+					],
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				57600,
+				[
+					[
+						"Set Camera Zoom",
+						"",
+						""
+					],
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					],
+					[
+						"GAME Flash",
+						"1",
+						"FFFFFF"
+					]
+				]
+			],
+			[
+				61800,
+				[
+					[
+						"Hey!",
+						"GF",
+						""
+					]
+				]
+			],
+			[
+				64200,
+				[
+					[
+						"Hey!",
+						"GF",
+						""
+					]
+				]
+			],
+			[
+				66300,
+				[
+					[
+						"Hey!",
+						"GF",
+						""
+					]
+				]
+			],
+			[
+				66900,
+				[
+					[
+						"Hey!",
+						"GF",
+						""
+					]
+				]
+			],
+			[
+				69000,
+				[
+					[
+						"Hey!",
+						"GF",
+						""
+					]
+				]
+			],
+			[
+				71400,
+				[
+					[
+						"Hey!",
+						"GF",
+						""
+					]
+				]
+			],
+			[
+				73800,
+				[
+					[
+						"Hey!",
+						"GF",
+						""
+					]
+				]
+			],
+			[
+				76200,
+				[
+					[
+						"Hey!",
+						"GF",
+						""
+					]
+				]
+			],
+			[
+				76800,
+				[
+					[
+						"Add Camera Zoom",
+						"0.0075",
+						"0.015"
+					],
+					[
+						"OTHER Fade",
+						"3",
+						"000000"
+					],
+					[
+						"Set Camera Zoom",
+						"0.45",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 100,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Bopeebo"
+	}
+}

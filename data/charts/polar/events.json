@@ -1,0 +1,224 @@
+{
+	"song": {
+		"speed": 2.2,
+		"stage": "spooky",
+		"player1": "bf",
+		"player2": "spooky",
+		"player3": null,
+		"events": [
+			[
+				727.272727272727,
+				[
+					[
+						"Alt Idle Animation",
+						"Dad",
+						"-alt"
+					]
+				]
+			],
+			[
+				13818.1818181818,
+				[
+					[
+						"Set Camera Zoom",
+						"0.8",
+						""
+					]
+				]
+			],
+			[
+				14545.4545454545,
+				[
+					[
+						"Play Animation",
+						"voiceline",
+						"Dad"
+					],
+					[
+						"Subtitles",
+						"I don't think he knows what it is...",
+						"2.5"
+					]
+				]
+			],
+			[
+				17000,
+				[
+					[
+						"Subtitles",
+						"Well...",
+						"0.75"
+					]
+				]
+			],
+			[
+				17454.5454545455,
+				[
+					[
+						"Subtitles",
+						"Um...",
+						"0.5"
+					]
+				]
+			],
+			[
+				18181.8181818182,
+				[
+					[
+						"Subtitles",
+						"You kinda crouch,",
+						"1.65"
+					]
+				]
+			],
+			[
+				19454.5454545455,
+				[
+					[
+						"Subtitles",
+						"and then you dance like this.",
+						"1.5"
+					]
+				]
+			],
+			[
+				21818.1818181818,
+				[
+					[
+						"Set Camera Zoom",
+						"1.5",
+						""
+					],
+					[
+						"GAME Flash",
+						"24",
+						"000000"
+					]
+				]
+			],
+			[
+				22545.4545454545,
+				[
+					[
+						"Set Camera Zoom",
+						"0.45",
+						""
+					],
+					[
+						"GAME Flash",
+						"0.5",
+						"000000"
+					],
+					[
+						"Alt Idle Animation",
+						"Dad",
+						""
+					]
+				]
+			],
+			[
+				23272.7272727273,
+				[
+					[
+						"Set Camera Zoom",
+						"",
+						""
+					],
+					[
+						"GAME Flash",
+						"1",
+						"FFFFFF"
+					]
+				]
+			],
+			[
+				46545.4545454546,
+				[
+					[
+						"Set Camera Zoom",
+						"0.8",
+						""
+					],
+					[
+						"GAME Flash",
+						"1",
+						"FFFFFF"
+					]
+				]
+			],
+			[
+				58181.8181818182,
+				[
+					[
+						"Set Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				69818.1818181819,
+				[
+					[
+						"Set Camera Zoom",
+						"0.8",
+						""
+					],
+					[
+						"GAME Flash",
+						"1",
+						"FFFFFF"
+					]
+				]
+			],
+			[
+				80000,
+				[
+					[
+						"Set Camera Zoom",
+						"0.8",
+						""
+					]
+				]
+			],
+			[
+				81454.5454545455,
+				[
+					[
+						"Set Camera Zoom",
+						"",
+						""
+					],
+					[
+						"GAME Flash",
+						"1",
+						"FFFFFF"
+					]
+				]
+			],
+			[
+				104727.272727273,
+				[
+					[
+						"GAME Flash",
+						"1",
+						"FFFFFF"
+					],
+					[
+						"Set Camera Zoom",
+						"0.45",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 165,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Polar"
+	}
+}

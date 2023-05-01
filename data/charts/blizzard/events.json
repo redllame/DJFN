@@ -1,0 +1,365 @@
+{
+    "song": {
+        "speed": 1.6,
+        "stage": "spookyDark",
+        "player1": "bf-stressed",
+        "player2": "monster",
+        "player3": null,
+        "events": [
+            [
+                21333.3333333333, [
+                    [
+                        "Subtitles",
+                        "Freezing in the cold...",
+                        "2.2"
+                    ]
+                ]
+            ],
+            [
+                24444.4444444444, [
+                    [
+                        "Subtitles",
+                        "Chop you up,",
+                        "1"
+                    ]
+                ]
+            ],
+            [
+                25555.5555555556, [
+                    [
+                        "Subtitles",
+                        "and serve you to",
+                        "2"
+                    ]
+                ]
+            ],
+            [
+                28000, [
+                    [
+                        "Subtitles",
+                        "friends around.",
+                        "2"
+                    ]
+                ]
+            ],
+            [
+                35555.5555555556, [
+                    [
+                        "Subtitles",
+                        "Season your girlfriend with the",
+                        "1"
+                    ]
+                ]
+            ],
+            [
+                37333.3333333333, [
+                    [
+                        "Subtitles",
+                        "ketchup and spices,",
+                        "0.75"
+                    ]
+                ]
+            ],
+            [
+                38666.6666666667, [
+                    [
+                        "Subtitles",
+                        "that will make a full course meal",
+                        "1"
+                    ]
+                ]
+            ],
+            [
+                40333.3333333333, [
+                    [
+                        "Subtitles",
+                        "to",
+                        "0.25"
+                    ]
+                ]
+            ],
+            [
+                40777.7777777778, [
+                    [
+                        "Subtitles",
+                        "serve at your dismay.",
+                        "3"
+                    ]
+                ]
+            ],
+            [
+                49888.8888888889, [
+                    [
+                        "Subtitles",
+                        "Here we go again,",
+                        "1"
+                    ]
+                ]
+            ],
+            [
+                51555.5555555556, [
+                    [
+                        "Subtitles",
+                        "you've got no where to go",
+                        "1"
+                    ],
+                    [
+                        "Play Animation",
+                        "prepare",
+                        "GF"
+                    ]
+                ]
+            ],
+            [
+                52888.8888888889, [
+                    [
+                        "Change Character",
+                        "GF",
+                        "gf-stressed2"
+                    ]
+                ]
+            ],
+            [
+                53111.1111111111, [
+                    [
+                        "Subtitles",
+                        "except my domain,",
+                        "0.5"
+                    ]
+                ]
+            ],
+            [
+                54666.6666666667, [
+                    [
+                        "Subtitles",
+                        "where you'll die cold and alone.",
+                        "3"
+                    ]
+                ]
+            ],
+            [
+                71111.1111111112, [
+                    [
+                        "Subtitles",
+                        "Put you",
+                        "0.25"
+                    ]
+                ]
+            ],
+            [
+                71777.7777777778, [
+                    [
+                        "Subtitles",
+                        "and your girlfriend",
+                        "0.5"
+                    ]
+                ]
+            ],
+            [
+                72888.8888888889, [
+                    [
+                        "Subtitles",
+                        "into the chilling freezer,",
+                        "1"
+                    ]
+                ]
+            ],
+            [
+                74666.6666666667, [
+                    [
+                        "Subtitles",
+                        "take your souls and",
+                        "0.7"
+                    ]
+                ]
+            ],
+            [
+                76000.0000000001, [
+                    [
+                        "Subtitles",
+                        "throw 'em",
+                        "0.2"
+                    ]
+                ]
+            ],
+            [
+                76444.4444444445, [
+                    [
+                        "Subtitles",
+                        "into",
+                        "0.5"
+                    ]
+                ]
+            ],
+            [
+                77222.2222222223, [
+                    [
+                        "Subtitles",
+                        "my",
+                        "0.5"
+                    ]
+                ]
+            ],
+            [
+                78222.2222222223, [
+                    [
+                        "Subtitles",
+                        "mouth.",
+                        "0.5"
+                    ]
+                ]
+            ],
+            [
+                79777.7777777779, [
+                    [
+                        "Subtitles",
+                        "*laughter*",
+                        "0.5"
+                    ]
+                ]
+            ],
+            [
+                82777.7777777779, [
+                    [
+                        "Subtitles",
+                        "<gf>GF: <gf>C'mon, <bf>Boyfriend<bf>!",
+                        "0.4"
+                    ],
+                    [
+                        "Change Character",
+                        "GF",
+                        "gf-voiceline"
+                    ],
+                    [
+                        "Play Animation",
+                        "Voiceline",
+                        "GF"
+                    ]
+                ]
+            ],
+            [
+                83777.7777777779, [
+                    [
+                        "Subtitles",
+                        "<gf>GF:<gf> Let's beat this weirdo!",
+                        "0.8"
+                    ]
+                ]
+            ],
+            [
+                85444.4444444445, [
+                    [
+                        "Subtitles",
+                        "Pull your hearts out while",
+                        "1"
+                    ],
+                    [
+                        "Change Character",
+                        "GF",
+                        "gf-stressed2"
+                    ]
+                ]
+            ],
+            [
+                87111.1111111112, [
+                    [
+                        "Subtitles",
+                        "they're still beating",
+                        "0.5"
+                    ]
+                ]
+            ],
+            [
+                88222.2222222223, [
+                    [
+                        "Subtitles",
+                        "that's when their",
+                        "0.3"
+                    ]
+                ]
+            ],
+            [
+                88888.888888889, [
+                    [
+                        "Subtitles",
+                        "still at their most finest",
+                        "1"
+                    ]
+                ]
+            ],
+            [
+                90666.6666666668, [
+                    [
+                        "Subtitles",
+                        "of their freshness.",
+                        "2"
+                    ]
+                ]
+            ],
+            [
+                99555.5555555557, [
+                    [
+                        "Subtitles",
+                        "I'll keep on feasting till",
+                        "1"
+                    ]
+                ]
+            ],
+            [
+                101333.333333333, [
+                    [
+                        "Subtitles",
+                        "I'm satisfied you'll never",
+                        "1"
+                    ]
+                ]
+            ],
+            [
+                103111.111111111, [
+                    [
+                        "Subtitles",
+                        "make it out if you",
+                        "1"
+                    ]
+                ]
+            ],
+            [
+                104888.888888889, [
+                    [
+                        "Subtitles",
+                        "try to put on a fight.",
+                        "2"
+                    ]
+                ]
+            ],
+            [
+                114666.666666667, [
+                    [
+                        "GAME Fade",
+                        "1",
+                        ""
+                    ]
+                ]
+            ],
+            [
+                116777.777777778, [
+                    [
+                        "Subtitles",
+                        "<dad>???<dad> I'll be seeing you soon, little <bf>Boyfriend<bf>.",
+                        "1.5"
+                    ]
+                ]
+            ]
+        ],
+        "notes": [],
+        "splashSkin": null,
+        "validScore": false,
+        "gfVersion": "gf-stressed",
+        "eventJson": "events",
+        "bpm": 135,
+        "arrowSkin": null,
+        "needsVoices": true,
+        "songID": "Blizzard",
+        "song": "Blizzard"
+    }
+}
